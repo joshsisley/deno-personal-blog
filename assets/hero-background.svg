@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" data-name="Layer 1" viewBox="0 0 1440 520" width="1440" height="520">
+  <defs>
+    <style>.cls-1{fill:url(#linear-gradient);}.cls-2{fill:#f9f9f9;}</style>
+    <linearGradient id="linear-gradient" x1="1359.58" y1="618.68" x2="80.42" y2="-110.68" gradientUnits="userSpaceOnUse">
+      <stop offset="0.11" stop-color="#7cfce0"></stop>
+      <stop offset="0.3" stop-color="#5ff5c3"></stop>
+      <stop offset="0.71" stop-color="#1de281"></stop>
+      <stop offset="1" stop-color="#00da63"></stop>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" width="1440" height="508"></rect>
+  <polygon class="cls-2" points="0 401.11 36 400 36 364 72 364 72 436 108 436 108 400 144 400 144 472 180 472 180 436 144 436 144 400 180 400 180 436 216 436 216 508 252 508 252 472 288 472 288 436 324 436 324 364 360 364 360 400 396 400 396 436 468 436 468 472 504 472 504 436 540 436 540 400 576 400 576 472 612 472 612 508 648 508 648 472 684 472 684 436 720 436 720 508 792 508 792 472 756 472 756 436 792 436 792 400 828 400 828 472 864 472 864 436 900 436 900 508 972 508 972 472 1008 472 1008 436 1044 436 1044 472 1152 472 1152 436 1188 436 1188 508 1224 508 1224 472 1260 472 1260 436 1296 436 1296 400 1332 400 1332 436 1368 436 1368 364 1404 364 1404 400 1440 401.11 1440 520 0 520 0 401.11"></polygon>
+  <rect class="cls-2" x="468" y="364" width="36" height="36"></rect>
+  <rect class="cls-2" x="900" y="436" width="36" height="36"></rect>
+  <rect class="cls-2" x="1224" y="400" width="36" height="36"></rect>
+  <rect class="cls-2" x="1080" y="400" width="36" height="36"></rect>
+</svg>
